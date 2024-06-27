@@ -1,0 +1,5 @@
+1 4 Fitness_Enthusiasts 75000 1 5 8 12 
+2 3 Jogging_Club 60000 7 14 18
+3 2 Yoga_Lovers 55000 2 6 
+4 3 Cycling_Team 70000 9 15 19
+5 3 Hiking_Crew 80000 4 11 13
